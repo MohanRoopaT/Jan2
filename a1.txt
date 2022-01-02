@@ -1,2 +1,4 @@
 bsdhmshjdsa
-a1.txt in a branch in local
+a1.txt in a branch in local1
+modifying a.txt file in main as well to create a conflict while merging between
+main ans dev11 branch
